@@ -3,3 +3,4 @@ gitlearn
 git
 dev
 feature
+--no-ff
