@@ -4,3 +4,4 @@ git
 dev
 feature
 --no-ff
+fix bug
